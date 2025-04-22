@@ -10,8 +10,7 @@ This project uses machine learning to classify Indian mutual funds into **Low**,
 We use the **Indian Mutual Funds NAV History** dataset from Kaggle:
 
 - **Source:** [Kaggle Dataset](https://www.kaggle.com/datasets/balajisr/indian-mutual-funds-dataset-2023)
-- **File used:** `Mutual_Funds.csv` (renamed from `Indian_Mutual_Funds_NAV_History.csv`)
-
+- **File used:** `Mutual_Funds.csv`
 ---
 
 ## 🧠 Project Workflow
