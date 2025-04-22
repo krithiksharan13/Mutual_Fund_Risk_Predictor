@@ -134,17 +134,4 @@ streamlit run streamlit_app.py
 
 ---
 
-## 📁 Project Structure
-```
-├── Mutual_Funds.csv
-├── mutual_fund_risk_model.pkl
-├── streamlit_app.py
-├── Mutual_Fund_Risk_Indicator.ipynb
-├── Screenshot 2025-04-22 122254.png
-├── Screenshot 2025-04-22 122430.png
-└── README.md
-```
-
----
-
 Made with ❤️ for portfolio and educational use.
